@@ -1,0 +1,23 @@
+body {
+    font-family: Roboto;
+}
+
+.margen-auto {
+    margin: auto;
+}
+
+.verde-fondo {
+    background-color: #28A745;
+}
+
+.verde-texto {
+    color: #28A745;
+}
+
+.letra-pequeña {
+    font-size: 80%;
+}
+
+.carta-normal {
+    width: 18rem;
+}
